@@ -1,9 +1,9 @@
 # python-basics-practice
 Practice tasks for learning Python basics (in Russian)
 
-This repository contains practical coding exercises based on Python basics. All tasks are written in Python basics. The theoretical materials (e.g. presentations) are **not includded** - only code practice.
+This repository contains practical coding exercises based on Python basics. All tasks are written in Python basics. The theoretical materials (e.g. presentations) are **not included** - only code practice.
 
-Этот репозиторий содержит практические упражнения по основам Python и сгруппирированы по концепциям. Теоритические материалы (например, презентации) **не включены** - только код для практики.
+Этот репозиторий содержит практические упражнения по основам Python и сгруппированы по концепциям. Теоретические материалы (например, презентации) **не включены** - только код для практики.
 
 ---
 
@@ -41,7 +41,7 @@ This repository contains practical coding exercises based on Python basics. All 
 - Регулярные выражения. Часть 2
 
 ### 7. Practice Day / День решения задач
-В этом разделе собраны задачи на закрепление пройденного материала. Каждое задание включает в себя одну или несколько тем, включая строки, словари, множества, работу с файлами, функции, а также простую реализацию лоники и проверки.
+В этом разделе собраны задачи на закрепление пройденного материала. Каждое задание включает в себя одну или несколько тем, включая строки, словари, множества, работу с файлами, функции, а также простую реализацию логики и проверки.
 
 ---
 
@@ -49,4 +49,4 @@ This repository contains practical coding exercises based on Python basics. All 
 
 Only code files are included. These exercises are meant for hands-on practice and reinforce core Python concepts without accompanying theory.
 
-В репозитории содержится только код. Эти упражнения предназначены для практики и закрепления основных концепций Python без теоритической части.
+В репозитории содержится только код. Эти упражнения предназначены для практики и закрепления основных концепций Python без теоретической части.
